@@ -1,5 +1,18 @@
-# Pharmacy-Medicine-Entry-System
-A complete offline Pharmacy Management System (POS + Inventory) with billing, stock, profit reports, PDF export &amp; backup. Built with HTML, CSS &amp; JavaScript | Default Currency: PKR
+PharmaMaster - Complete Pharmacy Management System built with HTML, CSS & JavaScript
+A full-featured, offline-first Pharmacy POS and Inventory Management System designed for medical stores and pharmacies in Pakistan. Manage medicines, sales, stock, purchases, expiry, profit & reports with a beautiful and easy-to-use interface.
+Key Highlights:
+
+POS Billing with fast search
+Medicine & Stock Management with expiry alerts
+Automatic Profit Calculation
+Beautiful Print & PDF Receipts
+Backup & Restore support
+Multi-user system (create your own accounts)
+Default Currency: PKR
+Fully Offline (No server required)
+
+Technologies: HTML5, CSS3, Vanilla JavaScript, IndexedDB, jsPDF
+Perfect for small and medium-sized pharmacies looking for a simple, powerful, and free management solution.
 
 A modern, full-featured **Pharmacy Management System** built with **HTML, CSS, and JavaScript**. Perfect for small to medium medical stores and pharmacies. Works offline and requires no server installation.
 
